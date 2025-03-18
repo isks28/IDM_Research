@@ -12,7 +12,7 @@ import CareKitStore
 
 struct HomeView: View {
     var body: some View {
-        Text("Put contacts view of CareKit UI in here to display possible contacts or chat with related doctors!")
+        Text("Put daily dates and task in here to be done by the participants!")
     }
 }
 
